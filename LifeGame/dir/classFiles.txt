@@ -1,0 +1,12 @@
+./bin/LifeGame$1.class
+./bin/graphics/Figure.class
+./bin/graphics/Graphics.class
+./bin/LifeGame.class
+./bin/board/Board.class
+./bin/board/Board$1.class
+./bin/board/cell/Cell$1.class
+./bin/board/cell/Location.class
+./bin/board/cell/State.class
+./bin/board/cell/Cell.class
+./bin/board/cell/Cell$Location.class
+./bin/board/cell/Cell$State.class

@@ -1,0 +1,12 @@
+Las siguientes instrucciones son para un entorno Linux, en caso de requerirse, adaptar las instrucciones para el sistema en donde se ejecute.
+
+BUSCAR ARCHIVOS EN CASO DE AÑADIR OTRA CLASE
+    find -name "*.java" >./dir/javaFiles.txt
+
+COMPILAR EL PROGRAMA:
+    javac -d ./bin/ -cp ./src/ @./dir/javaFiles.txt
+
+EJECUTAR EL PROGRAMA:
+    java -cp ./bin/ LifeGame
+
+

@@ -1,0 +1,5 @@
+./src/graphics/Figure.java
+./src/graphics/Graphics.java
+./src/LifeGame.java
+./src/board/Board.java
+./src/board/cell/Cell.java
